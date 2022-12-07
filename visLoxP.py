@@ -52,17 +52,17 @@ with open(fasta_file,'r') as input_file:
                         amplicon_size=int(line.find(str(list_reverse[j])))-int(line.find(str(list_forward[i])))
                         if amplicon_size < 0:
                             list_values.append(0)
-                            print(0)
+                            #print(0)
                         elif amplicon_size > 1000:
                             list_values.append(0)
-                            print(0)
+                            #print(0)
                         elif amplicon_size == 0:
                             list_values.append(0)
-                            print(0)
+                            #print(0)
                             #print(list_forward[i], line.find(str(list_forward[i])), str(list_reverse[j])line.find(str(list_reverse[j])))
                         else:
                             list_values.append(1)
-                            print(1)
+                            #print(1)
                             #print(list_forward[i], line.find(str(list_forward[i])), str(list_reverse[j]),
                                   #line.find(str(list_reverse[j])))
                     else:
