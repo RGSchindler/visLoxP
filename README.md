@@ -19,9 +19,11 @@ Output
 The following output file will be written in a .txt file
 
 
-| Primer_name  | LU_1 | LU_2 | LU_3 | LU_4 | LU_5 | LU_6 |
-| Genome_01  | 0  |0|1|1|1|0|
-| Genome_02  | 1 |0|1|1|1|1|0|
+| Oligo_name | LU1 | LU2 | LU3 | LU4 |
+|------------|-----|-----|-----|-----|
+| Genome_01  | 0   | 1   | 0   | 0   |
+| Genome_02  | 1   | 1   | 0   | 0   |
+| Genome_03  | 1   | 1   | 0   | 0   |
 
 
 
