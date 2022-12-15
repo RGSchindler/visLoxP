@@ -1,4 +1,4 @@
-# visLoxP
+## visLoxP
 This repository contains the script visLoxP written in Python.
 
 Given a genome fasta file, in addition to the files containing the primers for the in silico PCR with the following format: -LoxPUnis,primer_sequence- 
