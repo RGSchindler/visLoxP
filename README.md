@@ -16,7 +16,7 @@ python VisLoxp.py genome.fasta fwd_primers.csv rev_primers.csv 700
 
 Output
 -------------------------------------------------
-The following output file will be written in a .txt file
+The output file will be written in a .txt file
 
 
 | Oligo_name | LU1 | LU2 | LU3 | LU4 |
