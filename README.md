@@ -12,7 +12,7 @@ The user have to provide the following files:
 Usage
 --------------------------------------------
 
-python VisLoxp.py genome.fasta fwd_primers.csv rev_primers.csv 700
+python VisLoxP.py genome.fasta fwd_primers.csv rev_primers.csv 700
 
 Output
 -------------------------------------------------
