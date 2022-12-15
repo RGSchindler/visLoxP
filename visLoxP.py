@@ -56,18 +56,19 @@ with open(fasta_file,'r') as input_file:
 
                         if amplicon_size < 0:
                             list_values.append(0)
-                            print(0)
+                            #print(0)
                         elif amplicon_size > int(maximum_amplicon_size):
                             list_values.append(0)
-                            print(0)
+                            #print(0)
                         elif amplicon_size == 0:
                             list_values.append(0)
-                            print(0)
+                            #print(0)
                         else:
                             list_values.append(1)
-                            print(1)
+                            #print(1)
                     else:
-                        print(0)
+                        list_values.append(0)
+                        #print(0)
 
 
 with open("in_silico_pcr_output.txt",'a') as outfile:
