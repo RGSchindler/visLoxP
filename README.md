@@ -26,4 +26,6 @@ The output is generated as a .txt file
 | Genome_03  | 1   | 1   | 0   | 0   |
 
 
-
+Publication
+------------------------------------------------------
+Lindeboom, T. A., Sanchez Olmos, M. del C., Schulz, K., Brinkmann, C. K., Ramirez Rojas, A. A., Hochrein, L., & Schindler, D. (2022). L-SCRaMbLE creates large-scale genome rearrangements in synthetic Sc2.0 chromosomes. bioRxiv. https://doi.org/10.1101/2022.12.12.519280
