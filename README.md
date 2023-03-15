@@ -25,6 +25,9 @@ The output is generated as a .txt file
 | Genome_02  | 1   | 1   | 0   | 0   |
 | Genome_03  | 1   | 1   | 0   | 0   |
 
+License
+-------------------------------------------------
+This is a repository written under the [CC BY-NC 4.0 license](http://creativecommons.org/licenses/by-nc/4.0/)
 
 Publication
 ------------------------------------------------------
