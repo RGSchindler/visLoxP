@@ -27,7 +27,7 @@ The output is generated as a .txt file
 
 License
 -------------------------------------------------
-This is a repository written under the [CC BY-NC 4.0 license](http://creativecommons.org/licenses/by-nc/4.0/)
+This is a repository written under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Publication
 ------------------------------------------------------
